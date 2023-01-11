@@ -1,0 +1,300 @@
+Done mean computation at 2023-01-09 09:56:38.624496
+Done median computation at 2023-01-09 09:56:38.624636
+
+Done median computation at 2023-01-09 09:56:43.625582
+Done mean computation at 2023-01-09 09:56:43.630005
+
+Done mean computation at 2023-01-09 09:56:48.635646
+Done median computation at 2023-01-09 09:56:48.635830
+
+Done mean computation at 2023-01-09 09:56:53.641549
+Done median computation at 2023-01-09 09:56:53.641709
+
+Done mean computation at 2023-01-09 09:56:58.647395
+Done median computation at 2023-01-09 09:56:58.647566
+
+Done mean computation at 2023-01-09 09:57:03.653257
+Done median computation at 2023-01-09 09:57:03.653401
+
+Done mean computation at 2023-01-09 09:57:08.659108
+Done median computation at 2023-01-09 09:57:08.659254
+
+Done mean computation at 2023-01-09 09:57:13.664958
+Done median computation at 2023-01-09 09:57:13.665123
+
+Done mean computation at 2023-01-09 09:57:18.670832
+Done median computation at 2023-01-09 09:57:18.671008
+
+Done mean computation at 2023-01-09 09:57:23.676684
+Done median computation at 2023-01-09 09:57:23.676892
+
+Done mean computation at 2023-01-09 09:57:28.682616
+Done median computation at 2023-01-09 09:57:28.682769
+
+Done mean computation at 2023-01-09 09:57:33.688473
+Done median computation at 2023-01-09 09:57:33.688681
+
+Done mean computation at 2023-01-09 09:57:38.694318
+Done median computation at 2023-01-09 09:57:38.694539
+
+Done mean computation at 2023-01-09 09:57:43.700217
+Done median computation at 2023-01-09 09:57:43.700431
+
+Done mean computation at 2023-01-09 09:57:48.705437
+Done median computation at 2023-01-09 09:57:48.705590
+
+Done mean computation at 2023-01-09 09:57:53.709370
+Done median computation at 2023-01-09 09:57:53.709501
+
+Done mean computation at 2023-01-09 09:57:58.713365
+Done median computation at 2023-01-09 09:57:58.713533
+
+Done median computation at 2023-01-09 09:58:03.717451
+Done mean computation at 2023-01-09 09:58:03.717730
+
+Done median computation at 2023-01-09 09:58:08.721478
+Done mean computation at 2023-01-09 09:58:08.721761
+
+Done mean computation at 2023-01-09 09:58:13.727375
+Done median computation at 2023-01-09 09:58:13.727612
+
+Done mean computation at 2023-01-09 09:58:18.733288
+Done median computation at 2023-01-09 09:58:18.733468
+
+Done median computation at 2023-01-09 09:58:23.737372
+Done mean computation at 2023-01-09 09:58:23.737601
+
+Done mean computation at 2023-01-09 09:58:28.743241
+Done median computation at 2023-01-09 09:58:28.743389
+
+Done mean computation at 2023-01-09 09:58:33.749056
+Done median computation at 2023-01-09 09:58:33.749253
+
+Done median computation at 2023-01-09 09:58:38.753357
+Done mean computation at 2023-01-09 09:58:38.753494
+
+Done mean computation at 2023-01-09 09:58:43.757399
+Done median computation at 2023-01-09 09:58:43.759311
+
+Done mean computation at 2023-01-09 09:58:48.764877
+Done median computation at 2023-01-09 09:58:48.765005
+
+Done median computation at 2023-01-09 09:58:53.768514
+Done mean computation at 2023-01-09 09:58:53.770672
+
+Done mean computation at 2023-01-09 09:58:58.776347
+Done median computation at 2023-01-09 09:58:58.776530
+
+Done mean computation at 2023-01-09 09:59:03.782172
+Done median computation at 2023-01-09 09:59:03.782343
+
+Done mean computation at 2023-01-09 09:59:08.788074
+Done median computation at 2023-01-09 09:59:08.788270
+
+Done mean computation at 2023-01-09 09:59:13.793936
+Done median computation at 2023-01-09 09:59:13.794079
+
+Done median computation at 2023-01-09 09:59:18.798943
+Done mean computation at 2023-01-09 09:59:18.799717
+
+Done median computation at 2023-01-09 09:59:23.805374
+Done mean computation at 2023-01-09 09:59:23.805552
+
+Done median computation at 2023-01-09 09:59:28.809463
+Done mean computation at 2023-01-09 09:59:28.809765
+
+Done mean computation at 2023-01-09 09:59:33.813467
+Done median computation at 2023-01-09 09:59:33.815618
+
+Done mean computation at 2023-01-09 09:59:38.821359
+Done median computation at 2023-01-09 09:59:38.821530
+
+Done mean computation at 2023-01-09 09:59:43.825383
+Done median computation at 2023-01-09 09:59:43.825544
+
+Done mean computation at 2023-01-09 09:59:48.831170
+Done median computation at 2023-01-09 09:59:48.831389
+
+Done mean computation at 2023-01-09 09:59:53.837035
+Done median computation at 2023-01-09 09:59:53.837240
+
+Done median computation at 2023-01-09 09:59:58.841377
+Done mean computation at 2023-01-09 09:59:58.842788
+
+Done median computation at 2023-01-09 10:00:03.845360
+Done mean computation at 2023-01-09 10:00:03.845654
+
+Done mean computation at 2023-01-09 10:00:08.851257
+Done median computation at 2023-01-09 10:00:08.851429
+
+Done median computation at 2023-01-09 10:00:13.853463
+Done mean computation at 2023-01-09 10:00:13.853841
+
+Done median computation at 2023-01-09 10:00:18.858511
+Done mean computation at 2023-01-09 10:00:18.859404
+
+Done mean computation at 2023-01-09 10:00:23.865003
+Done median computation at 2023-01-09 10:00:23.865261
+
+Done median computation at 2023-01-09 10:00:28.869410
+Done mean computation at 2023-01-09 10:00:28.869573
+
+Done median computation at 2023-01-09 10:00:33.873483
+Done mean computation at 2023-01-09 10:00:33.875032
+
+Done mean computation at 2023-01-09 10:00:38.880717
+Done median computation at 2023-01-09 10:00:38.880886
+
+Done mean computation at 2023-01-09 10:00:43.886587
+Done median computation at 2023-01-09 10:00:43.886746
+
+Done mean computation at 2023-01-09 10:00:48.892485
+Done median computation at 2023-01-09 10:00:48.892686
+
+Done median computation at 2023-01-09 10:00:53.897453
+Done mean computation at 2023-01-09 10:00:53.897736
+
+Done median computation at 2023-01-09 10:00:58.901373
+Done mean computation at 2023-01-09 10:00:58.901443
+
+Done median computation at 2023-01-09 10:01:03.905419
+Done mean computation at 2023-01-09 10:01:03.906754
+
+Done mean computation at 2023-01-09 10:01:08.912376
+Done median computation at 2023-01-09 10:01:08.912526
+
+Done mean computation at 2023-01-09 10:01:13.918215
+Done median computation at 2023-01-09 10:01:13.918374
+
+Done median computation at 2023-01-09 10:01:18.921340
+Done mean computation at 2023-01-09 10:01:18.921487
+
+Done median computation at 2023-01-09 10:01:23.925444
+Done mean computation at 2023-01-09 10:01:23.925531
+
+Done median computation at 2023-01-09 10:01:28.929367
+Done mean computation at 2023-01-09 10:01:28.930887
+
+Done mean computation at 2023-01-09 10:01:33.936290
+Done median computation at 2023-01-09 10:01:33.936398
+
+Done mean computation at 2023-01-09 10:01:38.941365
+Done median computation at 2023-01-09 10:01:38.941541
+
+Done mean computation at 2023-01-09 10:01:43.947062
+Done median computation at 2023-01-09 10:01:43.947289
+
+Done mean computation at 2023-01-09 10:01:48.953062
+Done median computation at 2023-01-09 10:01:48.953331
+
+Done median computation at 2023-01-09 10:01:53.957467
+Done mean computation at 2023-01-09 10:01:53.957758
+
+Done mean computation at 2023-01-09 10:01:58.963374
+Done median computation at 2023-01-09 10:01:58.963523
+
+Done mean computation at 2023-01-09 10:02:03.969142
+Done median computation at 2023-01-09 10:02:03.969348
+
+Done median computation at 2023-01-09 10:02:08.973485
+Done mean computation at 2023-01-09 10:02:08.973638
+
+Done mean computation at 2023-01-09 10:02:13.979174
+Done median computation at 2023-01-09 10:02:13.979314
+
+Done mean computation at 2023-01-09 10:02:18.985029
+Done median computation at 2023-01-09 10:02:18.985226
+
+Done mean computation at 2023-01-09 10:02:23.989512
+Done median computation at 2023-01-09 10:02:23.989681
+
+Done mean computation at 2023-01-09 10:02:28.995359
+Done median computation at 2023-01-09 10:02:28.995540
+
+Done mean computation at 2023-01-09 10:02:33.997469
+Done median computation at 2023-01-09 10:02:34.001471
+
+Done median computation at 2023-01-09 10:02:39.005453
+Done mean computation at 2023-01-09 10:02:39.007147
+
+Done mean computation at 2023-01-09 10:02:44.012872
+Done median computation at 2023-01-09 10:02:44.013032
+
+Done mean computation at 2023-01-09 10:02:49.018733
+Done median computation at 2023-01-09 10:02:49.018911
+
+Done median computation at 2023-01-09 10:02:54.021463
+Done mean computation at 2023-01-09 10:02:54.024588
+
+Done mean computation at 2023-01-09 10:02:59.030273
+Done median computation at 2023-01-09 10:02:59.030426
+
+Done mean computation at 2023-01-09 10:03:04.036486
+Done median computation at 2023-01-09 10:03:04.036732
+
+Done mean computation at 2023-01-09 10:03:09.042379
+Done median computation at 2023-01-09 10:03:09.042605
+
+Done mean computation at 2023-01-09 10:03:14.048267
+Done median computation at 2023-01-09 10:03:14.048467
+
+Done median computation at 2023-01-09 10:03:19.050912
+Done mean computation at 2023-01-09 10:03:19.053484
+
+Done mean computation at 2023-01-09 10:03:24.059175
+Done median computation at 2023-01-09 10:03:24.059332
+
+Done mean computation at 2023-01-09 10:03:29.064998
+Done median computation at 2023-01-09 10:03:29.065195
+
+Done mean computation at 2023-01-09 10:03:34.069462
+Done median computation at 2023-01-09 10:03:34.071087
+
+Done mean computation at 2023-01-09 10:03:39.076801
+Done median computation at 2023-01-09 10:03:39.076985
+
+Done mean computation at 2023-01-09 10:03:44.082710
+Done median computation at 2023-01-09 10:03:44.082907
+
+Done mean computation at 2023-01-09 10:03:49.088671
+Done median computation at 2023-01-09 10:03:49.088859
+
+Done mean computation at 2023-01-09 10:03:54.094512
+Done median computation at 2023-01-09 10:03:54.094705
+
+Done mean computation at 2023-01-09 10:03:59.100347
+Done median computation at 2023-01-09 10:03:59.100571
+
+Done mean computation at 2023-01-09 10:04:04.106190
+Done median computation at 2023-01-09 10:04:04.106430
+
+Done median computation at 2023-01-09 10:04:09.109472
+Done mean computation at 2023-01-09 10:04:09.112114
+
+Done mean computation at 2023-01-09 10:04:14.117811
+Done median computation at 2023-01-09 10:04:14.118006
+
+Done median computation at 2023-01-09 10:04:19.122083
+Done mean computation at 2023-01-09 10:04:19.123679
+
+Done mean computation at 2023-01-09 10:04:24.129337
+Done median computation at 2023-01-09 10:04:24.129506
+
+Done mean computation at 2023-01-09 10:04:29.135166
+Done median computation at 2023-01-09 10:04:29.135385
+
+Done mean computation at 2023-01-09 10:04:34.140463
+Done median computation at 2023-01-09 10:04:34.141234
+
+Done mean computation at 2023-01-09 10:04:39.146866
+Done median computation at 2023-01-09 10:04:39.147051
+
+Done mean computation at 2023-01-09 10:04:44.152755
+Done median computation at 2023-01-09 10:04:44.152969
+
+Done mean computation at 2023-01-09 10:04:49.158684
+Done median computation at 2023-01-09 10:04:49.158887
+
+Done mean computation at 2023-01-09 10:04:54.164558
+Done median computation at 2023-01-09 10:04:54.164737
+
