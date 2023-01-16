@@ -20,6 +20,8 @@ t_stdv.join()
 
 This would deterministically cause the `t_mean` thread to be executed before `t_stdv` because t_mean gets joined with main thread and blocks it from proceeding any further in it's execution until `t_mean` executes entirely. So there will be a time difference of ~5 seconds between mean and standard deviation print statements in the above problem.
 
+https://github.com/ElisonSherton/thread-problem
+
 ## Data Science Motivation
 
 Most data scientists use Jupyter Notebooks for brainstorming/ideating/executing/training/testing and now even deploying code. It has this beautiful property of mixing text and code and persists variables and functions and it's a very user-friendly python interpretor in some sense. 
